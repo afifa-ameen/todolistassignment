@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolistassignment/static/css/main.973a9973.css",
+    "main.js": "/todolistassignment/static/js/main.62403254.js",
+    "index.html": "/todolistassignment/index.html",
+    "main.973a9973.css.map": "/todolistassignment/static/css/main.973a9973.css.map",
+    "main.62403254.js.map": "/todolistassignment/static/js/main.62403254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973a9973.css",
+    "static/js/main.62403254.js"
+  ]
+}
